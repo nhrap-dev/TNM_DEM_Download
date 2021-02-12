@@ -17,10 +17,10 @@ This tool will generate urls to download DEM files based on a users's input boun
 ![title](images/ExampleLinks.JPG)
 
 ## Step One
-Click on the Binder link above to open this jupyter notebook in your web browser. It may take a minute to load.
+Click on the Launch Binder link above to open this jupyter notebook in your web browser. It may take a minute to load.
 
 ## Step Two
-Modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond values for the DEM resolution you require in the cells below.
+Once the jupyter notebook has loaded modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond values for the DEM resolution you require in the cells below.
 * Westmost Longitude = minX
 * Southmost Latitude = minY
 * Eastmost Longitude = maxX
