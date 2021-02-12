@@ -17,6 +17,9 @@ This tool will generate urls to download DEM files based on a users's input boun
 ![title](images/ExampleLinks.JPG)
 
 ## Step One
+Click on the Binder link above to open this jupyter notebook in your web browser. It may take a minute to load.
+
+## Step Two
 Modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond values for the DEM resolution you require in the cells below.
 * Westmost Longitude = minX
 * Southmost Latitude = minY
@@ -27,7 +30,7 @@ Modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond v
 ![title](images/DEMExtent.JPG)
 ![title](images/UserEnteredData.JPG)
 
-## Step Two
+## Step Three
 In the menu, open the 'Kernal' drop down and select 'Restart and Run All' then click 'Restart and Run All Cells'. This should run each cell and the DEM download links should appear at the bottom.
 
 ![title](images/KernalRestartRunAll.JPG)
