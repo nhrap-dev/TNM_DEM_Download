@@ -7,8 +7,6 @@ http://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/Elevation/1/TIF
 An example of a tif url to download:
 https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/1/TIFF/n19w098/USGS_1_n19w098.tif
 
-Click on this link to get started:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nhrap-dev/TNM_DEM_Download/HEAD?filepath=TNM_DEM_Download.ipynb)
 
 # HOW TO USE
 
@@ -17,7 +15,8 @@ This tool will generate urls to download DEM files based on a users's input boun
 ![title](images/ExampleLinks.JPG)
 
 ## Step One
-Click on the Launch Binder link above to open this jupyter notebook in your web browser. It may take a minute to load.
+Click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nhrap-dev/TNM_DEM_Download/HEAD?filepath=TNM_DEM_Download.ipynb)
+ to open this jupyter notebook in your web browser. It may take a minute to load.
 
 ## Step Two
 Once the jupyter notebook has loaded modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond values for the DEM resolution you require in the cells below.
