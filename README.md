@@ -19,18 +19,14 @@ Click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.
  to open this jupyter notebook in your web browser. It may take a minute to load.
 
 ## Step Two
-Once the jupyter notebook has loaded modify the minX, minY, maxX, maxY to match your bounding box and the arcSecond values for the DEM resolution you require in the cells below.
-* Westmost Longitude = minX
-* Southmost Latitude = minY
-* Eastmost Longitude = maxX
-* Northmost Latitude = maxY
+Once the jupyter notebook has loaded, you can modify the westmostX, eastmostX, northmostY, southmostY variables to match your bounding box. You can also modify the arcSecond values for the DEM resolution you require.
 * The arcsecond will be '1' for 1 arc second and '13' for 1/3 arc second.
 
 ![title](images/DEMExtent.JPG)
 ![title](images/UserEnteredData.JPG)
 
 ## Step Three
-In the menu, open the 'Kernal' drop down and select 'Restart and Run All' then click 'Restart and Run All Cells'. This should run each cell and the DEM download links should appear at the bottom.
+In the menu bar, click the Run button.
 
 ![title](images/KernalRestartRunAll.JPG)
 ![title](images/RestartandRunAllCells.JPG)
