@@ -28,8 +28,7 @@ Once the jupyter notebook has loaded, you can modify the westmostX, eastmostX, n
 ## Step Three
 In the menu bar, click the Run button.
 
-![title](images/KernalRestartRunAll.JPG)
-![title](images/RestartandRunAllCells.JPG)
+![title](images/RunButton.JPG)
 
 ## NOTES
 Not every URL will have a corresponding DEM file to download, in those cases the link will display an xml file that contains a code of 'NoSuchKey'. This tends to happen when the bounding box is over an area where ther are no DEM's such as over the ocean.
