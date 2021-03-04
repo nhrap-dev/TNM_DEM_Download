@@ -14,17 +14,17 @@ This tool will generate urls to download DEM files based on a users's input boun
 
 > ![title](images/ExampleLinks.JPG)
 
-## 1 Step One
+## Step One
 Click on this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nhrap-dev/TNM_DEM_Download/HEAD?filepath=TNM_DEM_Download.ipynb)
  to open this jupyter notebook in your web browser. It may take a minute to load.
 
-## 2 Step Two
+## Step Two
 Once the jupyter notebook has loaded, you can modify the westmostX, eastmostX, northmostY, southmostY variables to match your bounding box. You can also modify the arcSecond values for the DEM resolution you require.
 * The arcsecond will be '1' for 1 arc second and '13' for 1/3 arc second.
 > ![title](images/DEMExtent.JPG)
 > ![title](images/UserEnteredData.JPG) 
 
-## 3 Step Three
+## Step Three
 In the menu bar, click the Run button.
 
 > ![title](images/RunButton.JPG)
